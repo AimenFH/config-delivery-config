@@ -1,4 +1,4 @@
 demo:
   value: hello
-  configVersion: v4
+  configVersion: v1794091874
   timeoutMs: 1000
