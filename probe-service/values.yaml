@@ -3,5 +3,5 @@ replicas: 3
 
 config:
   value: hello
-  configVersion: v1
+  configVersion: v2
   timeoutMs: "1000"
